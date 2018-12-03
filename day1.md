@@ -10,4 +10,4 @@ Useful information on roguelikes http://www.gamasutra.com/blogs/JoshGe/20181029/
 Notes:
 Github markup reference here https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-IDEAS: (LIBTCOD)[https://bitbucket.org/libtcod/libtcod/] - might be a fun one to make a rust wrapper for
+IDEAS: [LIBTCOD](https://bitbucket.org/libtcod/libtcod/) - might be a fun one to make a rust wrapper for
