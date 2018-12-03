@@ -1,6 +1,11 @@
 Day 1
 
-Install Rust 1.30.1 from here https://www.rust-lang.org/en-US/install.html
+Install Rust 1.30.1 from here https://www.rust-lang.org/en-US/install.html or if you already have it run `rustup upgrade`
+
+Check versions with `cargo --version`, `rustc --version` and `rustdoc --version`
+
+Make a new project `cargo new --bin rustyrogue`
+
 
 Investigate a rust library to do the terminal output PanVurses seems to be sufficient https://github.com/ihalila/pancurses
 
