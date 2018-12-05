@@ -13,6 +13,7 @@ Install Code Runner and you can press the run buttons https://marketplace.visual
 Still no F5 debugging but it will do for now.
 
 Investigate a rust library to do the terminal output PanVurses seems to be sufficient https://github.com/ihalila/pancurses
+`cargo install pancurses`
 
 Useful information on roguelikes http://www.gamasutra.com/blogs/JoshGe/20181029/329512/How_to_Make_a_Roguelike.php and http://roguebasin.roguelikedevelopment.org/index.php?title=Main_Page and http://rogueliketutorials.com/libtcod/1
 
