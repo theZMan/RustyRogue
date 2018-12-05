@@ -6,6 +6,11 @@ Check versions with `cargo --version`, `rustc --version` and `rustdoc --version`
 
 Make a new project `cargo new --bin rustyrogue`
 
+Run it `cargo run`
+
+Using Visual Studio Code with Rust? Is it more viable than last time? RLS extension appears to have been updated https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+Install Code Runner and you can press the run buttons https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+Still no F5 debugging but it will do for now.
 
 Investigate a rust library to do the terminal output PanVurses seems to be sufficient https://github.com/ihalila/pancurses
 
@@ -16,3 +21,9 @@ Notes:
 Github markup reference here https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 IDEAS: [LIBTCOD](https://bitbucket.org/libtcod/libtcod/) - might be a fun one to make a rust wrapper for
+
+Things I had forgotten about git because I dont use it every day!
+git config --global user.email zman@thezbuffer.com
+git config --global user.name "Andy Dunn"
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
